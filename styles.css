@@ -1,0 +1,16 @@
+
+.big-title {
+    color: black;
+    font-size:  120px;
+    font-family: 'Abril FatFace', cursive;
+    font-weight: 100;
+    width: 60%;
+}
+#title{
+    vertical-align: middle;
+    color: white;
+    text-align: center;
+    font-size: 42px;
+    margin-top: -24%;
+    margin-bottom: 22%;
+}
