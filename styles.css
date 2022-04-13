@@ -14,3 +14,19 @@
     margin-top: -24%;
     margin-bottom: 22%;
 }
+.featurette-divider{
+    margin: 5rem 0;;
+}
+hr{
+    height: 1px;
+}
+p{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+img{
+    margin: auto;
+    display: block;
+}
