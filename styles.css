@@ -30,3 +30,16 @@ img{
     margin: auto;
     display: block;
 }
+
+
+@media  screen and (min-width:874px) {
+    p{
+        text-align: left;
+    }
+    h3{
+        text-align: left;
+    }
+    #title{
+        font-size: 90px;
+    }  
+}
